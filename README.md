@@ -1,5 +1,5 @@
 ## Prism
-### Generate a ppm rainbow
+### rainbow generator
 
 run: 
 ```
