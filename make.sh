@@ -1,1 +1,1 @@
-cc ppm.c -o ppm && ./ppm
+cc prism.c -o prism && ./prism
