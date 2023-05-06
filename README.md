@@ -7,4 +7,4 @@ chmod +x make.sh
 ./make.sh
 ```
 
-![image info](rainbow.ppm)
+![image info](rainbow.png)
